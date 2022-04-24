@@ -1,0 +1,16 @@
+import pizza from "./pizza.jpg";
+import burger from "./burger.jpg";
+import pasta from "./pasta.jpg";
+import smoothie from "./smoothie.jpg";
+import colddrink from "./colddrink.jpg";
+import chaat from "./chaat.jpg";
+import dahibhalla from "./dahibhalla.jpg";
+import panipuri from "./pani-puri.jpg";
+import sandwiches from "./sandwiches.jpg";
+import milkshake from "./milkshake.jpg";
+import vadapav from "./vadapav.png";
+import fruits from "./fruitbowl.jpg";
+import vegetables from "./vegetables.jpg";
+import banner from "./banner.jpg";
+const images = [pizza, burger, pasta, smoothie, colddrink, chaat, dahibhalla, panipuri, sandwiches, milkshake, vadapav, fruits, vegetables, banner];
+export default images;

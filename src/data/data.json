@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza",
+        "price": 500,
+        "category": "Fast-Food"
+    },
+    {
+        "id": 2,
+        "name": "Burger",
+        "price": 150,
+        "category": "Fast-Food"
+    },
+    {
+        "id": 3,
+        "name": "Pasta",
+        "price": 200,
+        "category": "Fast-Food"
+    },
+    {
+        "id": 4,
+        "name": "Strawberry Smoothie",
+        "price": 120,
+        "category": "Drinks"
+    },
+    {
+        "id": 5,
+        "name": "Cold Drink",
+        "price": 80,
+        "category": "Drinks"
+    },
+    {
+        "id": 6,
+        "name": "Chaat",
+        "price": 50,
+        "category": "Fast-Food"
+    },
+    {
+        "id": 7,
+        "name": "Dahi Bhalla",
+        "price": 80,
+        "category": "Fast-Food"
+    },
+    {
+        "id": 8,
+        "name": "Pani-Puri",
+        "price": 20,
+        "category": "Fast-Food"
+    },
+    {
+        "id": 9,
+        "name": "Sandwiches",
+        "price": 60,
+        "category": "Fast-Food"
+    },
+    {
+        "id": 10,
+        "name": "MilkShake",
+        "price": 80,
+        "category": "Drink"
+    },
+    {
+        "id": 11,
+        "name": "Vadapav",
+        "price": 50,
+        "category": "Fast-Food"
+    },
+    {
+        "id": 12,
+        "name": "Fruit Bowl",
+        "price": 250,
+        "category": "Fruits & Vegatables"
+    },
+    {
+        "id": 13,
+        "name": "Vegetables",
+        "price": 350,
+        "category": "Fruits & Vegatables"
+    }
+
+]
